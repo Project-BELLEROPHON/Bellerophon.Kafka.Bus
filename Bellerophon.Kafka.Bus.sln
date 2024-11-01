@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bellerophon.Kafka.Bus.Abstractions", "Bellerophon.Kafka.Bus.Abstractions\Bellerophon.Kafka.Bus.Abstractions.csproj", "{0F7C56B8-943C-419D-B135-849A1CB431AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bellerophon.Kafka.Bus.Postgres", "Bellerophon.Kafka.Bus.Postgres\Bellerophon.Kafka.Bus.Postgres.csproj", "{49E9C484-B4BB-4542-8738-B624C84FAD19}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bellerophon.Kafka.Bus.EFCore", "Bellerophon.Kafka.Bus.EFCore\Bellerophon.Kafka.Bus.EFCore.csproj", "{49E9C484-B4BB-4542-8738-B624C84FAD19}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bellerophon.Kafka.Bus.Tests", "Bellerophon.Kafka.Bus.Tests\Bellerophon.Kafka.Bus.Tests.csproj", "{FA047F7E-B90C-4AAD-AAED-170053918405}"
 EndProject
